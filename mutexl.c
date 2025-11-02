@@ -1,5 +1,5 @@
 /*
-compile command: gcc mutex.c -pthrad
+compile command: gcc mutex.c -pthread
 */
 
 #include <stdio.h>
