@@ -21,7 +21,7 @@ int main(void)
 {
     pthread_t t1, t2, t3;
 
-    //Δημιουργεία των threads
+    //Initialize threads
     pthread_create(&t1, NULL, print_one, NULL);
     pthread_create(&t2, NULL, print_two, NULL);
     pthread_create(&t3, NULL, print_three, NULL);
