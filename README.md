@@ -1,1 +1,2 @@
-Trying to pass C course from my university.... Thanks
+Scripts in C
+Free to use
