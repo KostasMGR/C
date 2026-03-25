@@ -18,7 +18,7 @@ int main(void)
 	}	
 		
 
-	D = ((b*b)*4*a*c);
+	D = ((b*b)-(4*a*c);
 
 	if (D>0)
 	{
