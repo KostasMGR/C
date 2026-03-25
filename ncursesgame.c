@@ -6,10 +6,10 @@
 
 Η πρωτη γραμμη του αρχειου θα περιεχει τις διαστασεις του χαρτη (γραμμες, κενο, στηλες). Το προγραμμα τελειωνει μολις
 πατηθει το escape. Ο χειρισμος της οθονης και του πληκτρολογιου θα γινουν με χρηση της ncurses
-*/
-//(hint esc=27 στο ncurses)
 
-// compile command (OS: Linux): gcc C36.c -o C36 -lncurses
+(hint esc=27 στο ncurses)
+
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
