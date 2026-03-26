@@ -1,3 +1,1 @@
-Scripts in C
-Free to use
-Comments are in Greek
+Scripts in C   Comments are in Greek   Free to use  
